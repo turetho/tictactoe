@@ -1,2 +1,2 @@
 # tictactoe
-ultimate tictactor mcts
+ultimate tictactoe mcts
